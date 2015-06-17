@@ -1,0 +1,1 @@
+SAML-AAI/Kerberos aims to address the issue of end-users can not access web-based and non-web based computer services with a single federated single sign-on session. This project provides a simulations of that approach.
